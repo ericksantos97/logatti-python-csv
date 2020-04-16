@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4fdaf2d-6a67-4b8d-bbb3-bc820b746323" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJ7L5p7rFmMFkubcwn4XAYRMJF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.aula4">
+    <configuration name="aula4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjPyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aula4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="teste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProjPyCharm" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/teste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.aula4" />
+        <item itemvalue="Python.teste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4fdaf2d-6a67-4b8d-bbb3-bc820b746323" name="Default Changelist" comment="" />
+      <created>1553120598212</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553120598212</updated>
+      <workItem from="1586441786711" duration="2267000" />
+      <workItem from="1586453676672" duration="9024000" />
+      <workItem from="1586470474032" duration="6365000" />
+      <workItem from="1586991244310" duration="4187000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586453694862">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1586453694862" />
+    <state x="524" y="120" key="#xdebugger.evaluate" timestamp="1586475612510">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="524" y="120" key="#xdebugger.evaluate/0.0.1536.834@0.0.1536.834" timestamp="1586475612510" />
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom" timestamp="1586995765687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586995765687" />
+    <state width="1493" height="212" key="GridCell.Tab.0.center" timestamp="1586995765687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1586995765687" />
+    <state width="1493" height="212" key="GridCell.Tab.0.left" timestamp="1586995765687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1586995765687" />
+    <state width="1493" height="212" key="GridCell.Tab.0.right" timestamp="1586995765687">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="212" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1586995765687" />
+    <state width="1493" height="228" key="GridCell.Tab.1.bottom" timestamp="1586476848714">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="228" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1586476848714" />
+    <state width="1493" height="228" key="GridCell.Tab.1.center" timestamp="1586476848713">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="228" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1586476848713" />
+    <state width="1493" height="228" key="GridCell.Tab.1.left" timestamp="1586476848713">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="228" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1586476848713" />
+    <state width="1493" height="228" key="GridCell.Tab.1.right" timestamp="1586476848713">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="228" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1586476848713" />
+    <state x="277" y="60" key="SettingsEditor" timestamp="1586441804364">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="277" y="60" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1586441804364" />
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1586991259853">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1586991259853" />
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup" timestamp="1586461739030">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="431" y="155" width="672" height="678" key="search.everywhere.popup/0.0.1536.834@0.0.1536.834" timestamp="1586461739030" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ProjPyCharm$aula4.coverage" NAME="aula4 Coverage Results" MODIFIED="1586453366170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/school_report$aula4.coverage" NAME="aula4 Coverage Results" MODIFIED="1586995765673" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/school_report$teste.coverage" NAME="teste Coverage Results" MODIFIED="1586471943375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
