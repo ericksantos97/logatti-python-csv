@@ -1,6 +1,3 @@
-from _collections import defaultdict
-
-
 def lerArquivoCsv():
     return open(
         'F:\\FACULDADES - LOGATTI\\ANALISE E PROJETOS AVANÇADOS DE '
@@ -36,7 +33,7 @@ try:
         colunas = row.split(';')
         if 'CLEVELAND' == colunas[4]:
             resultado.append(row)
-            # print(row)
+            print(row)
 except:
     print('Filtro não encontrado.')
 
@@ -53,7 +50,7 @@ try:
         colunas = row.split(';')
         if 'A' in colunas[2][0]:
             resultado.append(row)
-            # print(row)
+            print(row)
 except:
     print('Filtro não encontrado.')
 
@@ -70,7 +67,7 @@ try:
         colunas = row.split(';')
         if 'PR' == colunas[5]:
             resultado.append(row)
-        # print(row)
+        print(row)
 except:
     print('Filtro não encontrado.')
 
@@ -100,10 +97,27 @@ arquivo = lerArquivoCsv()
 resultado = []
 lista = []
 
-for row in arquivo:
-    colunas = row.split(';')
-    lista.append(colunas[2] + ';' + colunas[4])
-print(lista)
+
+def verificarExistencia(cidadeVerificada):
+    for index in range(len(lista)):
+        if lista[index]['cidade'] == cidadeVerificada:
+            lista[index]['quantidade'] += 1
+            return True
+    return False
+
+
+for i in range(len(arquivo)):
+    cidade = arquivo[i].split(';')[4]
+    if not verificarExistencia(cidade):
+        lista.append({
+            'cidade': cidade,
+            'quantidade': 1
+        })
+
+lista.sort(key=lambda x: x['cidade'])
+
+for item in lista:
+    print(item)
 
 arquivo = abrirArquivoTxt('condicao6')
 arquivo.writelines(resultado)
